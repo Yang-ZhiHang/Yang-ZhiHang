@@ -12,10 +12,10 @@
 
 ### 🛠️ **Technical Skills**
 
-<table align="center" style="border-collapse: collapse; width: 90%; text-align: center;">
+<table align="center" style="border-collapse: collapse; width: 90%;">
   <tr>
-    <th style="padding: 10px; text-align: center;">🎯 Description</th>
-    <th style="padding: 10px; text-align: center;">🔧 Technologies</th>
+    <th style="padding: 10px;">🎯 Description</th>
+    <th style="padding: 10px;">🔧 Technologies</th>
   </tr>
   
   <tr>
