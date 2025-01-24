@@ -1,5 +1,7 @@
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40Yang-ZhiHang;Keep+learning+and+improving)
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&size=40&duration=2000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=600&lines=-+Hi%2C+Im+YangZhiHang+-;-+Computer+Science+Student+-;-+Focued+on+Interest+Learning+-" alt="Typing SVG" />
+  <!--Typing SVG from: https://github.com/DenverCoder1/readme-typing-svg-->
+</a>
 
 ![Top Langs](https://github-readme-stats-zamyangs-projects.vercel.app/api/top-langs/?username=Yang-ZhiHang&layout=compact&theme=radical) 
 
