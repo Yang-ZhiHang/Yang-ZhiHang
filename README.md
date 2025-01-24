@@ -14,12 +14,12 @@
 
 <table align="center" style="border-collapse: collapse; width: 90%;">
   <tr>
-    <th style="padding: 10px;">🎯 Description</th>
+    <th style="padding: 10px;">🎯 Category</th>
     <th style="padding: 10px;">🔧 Technologies</th>
   </tr>
   
   <tr>
-    <td style="padding: 10px; font-weight: bold;">🗣️ Langages</td>
+    <td style="padding: 10px; font-weight: bold;">🗣️ Languages</td>
     <td style="padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="35" />
@@ -32,7 +32,7 @@
   </tr>
   
   <tr>
-    <td style="padding: 10px; font-weight: bold;">⚙️ Frameworks & Librairies</td>
+    <td style="padding: 10px; font-weight: bold;">⚙️ Frameworks & Libraries</td>
     <td style="padding: 10px;">
       <img src="https://raw.githubusercontent.com/Yang-ZhiHang/Yang-ZhiHang/main/assets/langchain.png" alt="LangChain" height="30" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="PyQt" height="30" />
@@ -43,7 +43,7 @@
   </tr>
   
   <tr>
-    <td style="padding: 10px; font-weight: bold;">💾 DataBase</td>
+    <td style="padding: 10px; font-weight: bold;">💾 Database</td>
     <td style="padding: 10px;">
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" height="35" />
     </td>
