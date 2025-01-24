@@ -22,8 +22,8 @@
     <td style="padding: 10px; font-weight: bold;">🗣️ Languages</td>
     <td style="padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="35" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="35" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30" />
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" height="30" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="30" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" />
@@ -45,7 +45,7 @@
   <tr>
     <td style="padding: 10px; font-weight: bold;">💾 Database</td>
     <td style="padding: 10px;">
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" height="35" />
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" height="30" />
     </td>
   </tr>
   
