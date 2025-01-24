@@ -1,11 +1,11 @@
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&size=40&duration=2000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=435&lines=-+Hi%2C+Im+YangZhiHang+-;-+Computer+Science+Student+-;-+Focued+on+Interest+Learning+-" alt="Typing SVG" />
+<p align=center>
+    <img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&size=40&duration=2000&pause=2000&width=900&height=100&color=F7F7F7&center=true&vCenter=true&width=435&lines=-+Hi%2C+Im+YangZhiHang+-;-+Computer+Science+Student+-;-+Focued+on+Interest+Learning+-" alt="Typing SVG" />
   <!--Typing SVG from: https://github.com/DenverCoder1/readme-typing-svg-->
-</a>
+</p>
 
-<div align=center>
+<p align=center>
   <img src="https://github-readme-stats-zamyangs-projects.vercel.app/api/top-langs/?username=Yang-ZhiHang&layout=compact&theme=radical" alt="Top Langs" />
-</div>
+</p>
 <!--
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 -->
