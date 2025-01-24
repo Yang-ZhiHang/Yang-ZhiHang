@@ -39,7 +39,6 @@
       <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue.js" height="30" />
       <img src="https://raw.githubusercontent.com/Yang-ZhiHang/Yang-ZhiHang/main/assets/element.png" alt="Element" height="30" />
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="30" />
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/chainlink.svg" alt="LangChain" height="30" />
     </td>
   </tr>
   
