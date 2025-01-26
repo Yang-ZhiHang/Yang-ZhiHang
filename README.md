@@ -38,6 +38,7 @@
       <img src="https://raw.githubusercontent.com/Yang-ZhiHang/Yang-ZhiHang/main/assets/langchain.png" alt="LangChain" height="30" />
       <img src="https://raw.githubusercontent.com/Yang-ZhiHang/Yang-ZhiHang/main/assets/flask.png" alt="Flask" height="30" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="PyQt" height="30" />
+      <img src="https://raw.githubusercontent.com/Yang-ZhiHang/Yang-ZhiHang/main/assets/pyinstaller.png" alt="PyInstaller" height="30" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="30" />
       <img src="https://www.vectorlogo.zone/logos/lesscss/lesscss-icon.svg" alt="Less" height="30" />
       <img src="https://raw.githubusercontent.com/Yang-ZhiHang/Yang-ZhiHang/main/assets/element.png" alt="Element" height="30" />
