@@ -34,7 +34,9 @@
   <tr>
     <td style="padding: 10px; font-weight: bold;">⚙️ Frameworks & Libraries</td>
     <td style="padding: 10px;">
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="30" />
       <img src="https://raw.githubusercontent.com/Yang-ZhiHang/Yang-ZhiHang/main/assets/langchain.png" alt="LangChain" height="30" />
+      <img src="https://raw.githubusercontent.com/Yang-ZhiHang/Yang-ZhiHang/main/assets/flask.png" alt="Flask" height="30" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="PyQt" height="30" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="30" />
       <img src="https://www.vectorlogo.zone/logos/lesscss/lesscss-icon.svg" alt="Less" height="30" />
