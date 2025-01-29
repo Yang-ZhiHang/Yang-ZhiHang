@@ -10,56 +10,60 @@
 
 ------
 
-### 🛠️ **Technical Skills**
+### 🎯 **Technical Stack**
 
-<table align="center" style="border-collapse: collapse; width: 90%;">
+<table align="center">
   <tr>
-    <th style="padding: 10px;">🎯 Category</th>
-    <th style="padding: 10px;">🔧 Technologies</th>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; font-weight: bold;">🗣️ Languages</td>
-    <td style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="30" />
+    <td>
+      <h4>🎨 Frontend</h4>
+    </td>
+    <td>
+      <div>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="40" title="TypeScript"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" width="40" title="VueJS"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Pinia-Dark.svg" width="40" title="Pinia"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="40" title="TailwindCSS"/>
+        <img src="https://raw.githubusercontent.com/Yang-ZhiHang/Yang-ZhiHang/main/assets/element.png" width="40" title="Element Plus"/>
+      </div>
     </td>
   </tr>
-  
+
   <tr>
-    <td style="padding: 10px; font-weight: bold;">⚙️ Frameworks & Libraries</td>
-    <td style="padding: 10px;">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="30" />
-      <img src="https://raw.githubusercontent.com/Yang-ZhiHang/Yang-ZhiHang/main/assets/langchain.png" alt="LangChain" height="30" />
-      <img src="https://raw.githubusercontent.com/Yang-ZhiHang/Yang-ZhiHang/main/assets/flask.png" alt="Flask" height="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="PyQt" height="30" />
-      <img src="https://raw.githubusercontent.com/Yang-ZhiHang/Yang-ZhiHang/main/assets/pyinstaller.png" alt="PyInstaller" height="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="30" />
-      <img src="https://www.vectorlogo.zone/logos/lesscss/lesscss-icon.svg" alt="Less" height="30" />
-      <img src="https://raw.githubusercontent.com/Yang-ZhiHang/Yang-ZhiHang/main/assets/element.png" alt="Element" height="30" />
+    <td>
+      <h4>⚡ Backend</h4>
+    </td>
+    <td>
+      <div>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" width="40" title="Flask"/>
+      </div>
     </td>
   </tr>
-  
+
   <tr>
-    <td style="padding: 10px; font-weight: bold;">💾 Database</td>
-    <td style="padding: 10px;">
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" height="30" />
+    <td>
+      <h4>💾 Database</h4>
+    </td>
+    <td>
+      <div>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="40" title="MySQL"/>
+      </div>
     </td>
   </tr>
-  
+
   <tr>
-    <td style="padding: 10px; font-weight: bold;">🛠️ Tools</td>
-    <td style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" height="30" />
-      <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" height="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="30" />
+    <td>
+      <h4>⚙️ Others</h4>
+    </td>
+    <td>
+      <div>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenCV-Dark.svg" width="40" title="OpenCV"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="40" title="Git"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VIM-Dark.svg" width="40" title="Vim"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/QT-Dark.svg" width="40" title="QT"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" width="40" title="Nginx"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="40" title="Docker"/>
+      </div>
     </td>
   </tr>
+
 </table>
-
