@@ -19,10 +19,10 @@
     </td>
     <td>
       <div>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="40" title="TypeScript"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/QT-Dark.svg" width="40" title="QT"/>
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" width="40" title="VueJS"/>
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Pinia-Dark.svg" width="40" title="Pinia"/>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="40" title="TailwindCSS"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="40" title="TypeScript"/>
         <img src="https://raw.githubusercontent.com/Yang-ZhiHang/Yang-ZhiHang/main/assets/element.png" width="40" title="element"/>
       </div>
     </td>
@@ -52,17 +52,25 @@
 
   <tr>
     <td>
-      <h4>⚙️ Others</h4>
+      <h4>🛠️ DevOps</h4>
+    </td>
+    <td>
+      <div>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="40" title="Git"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" width="40" title="Nginx"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="40" title="Docker"/>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <h4>🤖 AI/ML Tools</h4>
     </td>
     <td>
       <div>
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenCV-Dark.svg" width="40" title="OpenCV"/>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="40" title="Git"/>
         <img src="https://raw.githubusercontent.com/Yang-ZhiHang/Yang-ZhiHang/main/assets/langchain.png" width="40" title="LangChain"/>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VIM-Dark.svg" width="40" title="Vim"/>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/QT-Dark.svg" width="40" title="QT"/>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" width="40" title="Nginx"/>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="40" title="Docker"/>
       </div>
     </td>
   </tr>
