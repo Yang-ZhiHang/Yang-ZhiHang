@@ -35,6 +35,7 @@
     <td>
       <div>
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" width="40" title="Flask"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" width="40" title="Flask"/>
       </div>
     </td>
   </tr>
@@ -46,6 +47,8 @@
     <td>
       <div>
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="40" title="MySQL"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="40" title="MySQL"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" width="40" title="MySQL"/>
       </div>
     </td>
   </tr>
