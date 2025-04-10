@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&size=50&duration=2000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=900&height=100&lines=-+Hi%2C+Im+YangZhiHang+-;-+Computer+Science+Student+-;-+Focus+on+Interest+Learning+-" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&size=50&duration=2000&pause=2000&color=838FF7&background=FFFFFF00&center=true&vCenter=true&width=900&height=100&lines=-+Hi%2C+Im+YangZhiHang+-;-+Computer+Science+Student+-;-+Focued+on+Interest+Learning+-" alt="Typing SVG" />
   <!-- Typing SVG from: https://github.com/DenverCoder1/readme-typing-svg -->
 </p>
 
