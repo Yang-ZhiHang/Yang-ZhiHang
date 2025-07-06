@@ -4,7 +4,7 @@
 </p>
 
 <p align=center>
-  <img src="https://github-readme-stats-zamyangs-projects.vercel.app/api/top-langs/?username=Yang-ZhiHang&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats-v2-zamyangs-projects.vercel.app/api/top-langs/?username=Yang-ZhiHang&layout=compact&theme=radical" alt="Top Langs" />
   <!-- Langs Card from: https://github.com/anuraghazra/github-readme-stats -->
 </p>
 
