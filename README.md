@@ -4,7 +4,7 @@
 </p>
 
 <p align=center>
-  <img src="https://github-readme-stats-zamyangs-projects.vercel.app/api/top-langs/?username=Yang-ZhiHang&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats-v2-zamyangs-projects.vercel.app/api/top-langs/?username=Yang-ZhiHang&layout=compact&theme=radical" alt="Top Langs" />
   <!-- Langs Card from: https://github.com/anuraghazra/github-readme-stats -->
 </p>
 
@@ -19,11 +19,8 @@
     </td>
     <td>
       <div>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/QT-Dark.svg" width="40" title="QT"/>
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" width="40" title="VueJS"/>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Pinia-Dark.svg" width="40" title="Pinia"/>
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="40" title="TypeScript"/>
-        <img src="https://raw.githubusercontent.com/Yang-ZhiHang/Yang-ZhiHang/main/assets/element.png" width="40" title="element"/>
       </div>
     </td>
   </tr>
@@ -35,7 +32,7 @@
     <td>
       <div>
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" width="40" title="Flask"/>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" width="40" title="Flask"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" width="40" title="FastAPI"/>
       </div>
     </td>
   </tr>
@@ -47,8 +44,8 @@
     <td>
       <div>
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="40" title="MySQL"/>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="40" title="MySQL"/>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" width="40" title="MySQL"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="40" title="PostgreSQL"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" width="40" title="Redis"/>
       </div>
     </td>
   </tr>
