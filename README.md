@@ -19,7 +19,7 @@
     </td>
     <td>
       <div>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" width="40" title="VueJS"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" width="40" title="Vue"/>
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="40" title="TypeScript"/>
       </div>
     </td>
