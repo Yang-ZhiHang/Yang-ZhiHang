@@ -1,12 +1,40 @@
-<p align=center>
-  <img style="vertical-align: middle;" src="https://readme-typing-svg.demolab.com?font=Cairo+Play&size=50&duration=3000&pause=3000&color=838FF7&background=FFFFFF00&center=true&vCenter=true&width=900&height=100&lines=-+Hi%2C+Im+YangZhiHang+-;-+Computer+Science+Student+-;-+Focued+on+Interest+Learning+-" alt="Typing SVG" />
+<picture>
+  <source
+    srcset="https://readme-typing-svg.demolab.com?font=Cairo+Play&size=50&duration=3000&pause=3000&color=E4BF7A&background=FFFFFF00&center=true&vCenter=true&width=900&height=100&lines=-+Hi%2C+Im+YangZhiHang+-;-+Computer+Science+Student+-;-+Focued+on+Interest+Learning+-"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://readme-typing-svg.demolab.com?font=Cairo+Play&size=50&duration=3000&pause=3000&color=838FF7&background=FFFFFF00&center=true&vCenter=true&width=900&height=100&lines=-+Hi%2C+Im+YangZhiHang+-;-+Computer+Science+Student+-;-+Focued+on+Interest+Learning+-"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&size=50&duration=3000&pause=3000&color=E4BF7A&background=FFFFFF00&center=true&vCenter=true&width=900&height=100&lines=-+Hi%2C+Im+YangZhiHang+-;-+Computer+Science+Student+-;-+Focued+on+Interest+Learning+-"/>
   <!-- Typing SVG from: https://github.com/DenverCoder1/readme-typing-svg -->
-</p>
+</picture>
 
 <p align=center>
-  <img src="https://github-readme-stats-v2-zamyangs-projects.vercel.app/api/top-langs/?username=Yang-ZhiHang&layout=compact&theme=tokyonight&bg_color=00000000" alt="Top Langs" />
-  <br><br>
-  <img src="https://github-readme-stats-v2-zamyangs-projects.vercel.app/api?username=Yang-ZhiHang&show_icons=true&theme=tokyonight&bg_color=00000000" alt="Github Stats" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats-v2-zamyangs-projects.vercel.app/api/top-langs/?username=Yang-ZhiHang&layout=compact&theme=onedark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-v2-zamyangs-projects.vercel.app/api/top-langs/?username=Yang-ZhiHang&layout=compact&theme=tokyonight&bg_color=00000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-v2-zamyangs-projects.vercel.app/api/top-langs/?username=Yang-ZhiHang&layout=compact&theme=onedark" alt="Top Langs" />
+  </picture>
+    <br><br>
+  <picture>
+    <source
+      srcset="https://github-readme-stats-v2-zamyangs-projects.vercel.app/api?username=Yang-ZhiHang&show_icons=true&theme=onedark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-v2-zamyangs-projects.vercel.app/api?username=Yang-ZhiHang&show_icons=true&theme=tokyonight&bg_color=00000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-v2-zamyangs-projects.vercel.app/api/top-langs/?username=Yang-ZhiHang&layout=compact&theme=onedark" alt="Github Stats" />
+  </picture>
   <!-- Langs Card from: https://github.com/anuraghazra/github-readme-stats -->
 </p>
 
