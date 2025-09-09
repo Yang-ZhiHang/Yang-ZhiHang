@@ -59,10 +59,12 @@
 前端框架：
 <img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" width="30" title="Vue"/>
 <img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="30" title="React"/>
+<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Svelte.svg" width="30" title="Svelte"/>
+<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Astro.svg" width="30" title="Astro"/>
 <img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" width="30" title="Flutter"/>
 
 
-熟悉 Vue3，用过 Nuxt、Vue2，了解 React、Flutter
+熟悉 Vue3，用过 Nuxt、Vue2、Astro，了解 React、Svelte、Flutter
 
 后端：
 <img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="30" title="Python"/>
@@ -70,15 +72,16 @@
 <img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" width="30" title="Java"/>
 <img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" width="30" title="Rust"/>
 
-熟悉 Python，用过 C/C++、Java，了解 Rust
+熟悉 Python，用过 Rust、C/C++、Java
 
 后端框架：
 <img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" width="30" title="Flask"/>
 <img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" width="30" title="FastAPI"/>
 <img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/Yang-ZhiHang/Yang-ZhiHang/main/assets/langchain.png" width="30" title="LangChain"/>
+<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Tauri-Dark.svg" width="30" title="Tauri"/>
 
 
-熟悉 Flask、FastAPI，用过 LangChain
+熟悉 Flask、FastAPI，用过 LangChain、Tauri
 
 数据库：
 <img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="30" title="MySQL"/>
