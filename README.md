@@ -40,72 +40,18 @@
 
 ------
 
-### 🎯 Tech Stacks | 技术栈
+### 🎯 Project
 
-> 描述说明：
-> 
-> - 熟练 - 应用过大于2个项目
-> - 熟悉 - 应用过2个项目或1个大项目
-> - 用过 - 应用过1个小项目或大项目的一小部分
-> - 学过 - 整个学过一遍但无项目，可能现在忘的差不多了
-> - 了解 - 学过但没学完
+- [基于 Tauri + Vue3 打造的 Windows 应用使用统计软件 - PCMonitor](https://github.com/Yang-ZhiHang/pc-monitor) #ForTheLoveOfCode
 
-前端：
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="30" title="TypeScript"/>
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="30" title="TailwindCSS"/>
+- [为视障人士打造的无障碍智能助手 - VisionVoice](https://github.com/PineappleSnowy/VisionVoice)
 
-熟悉 TypeScript，用过 TailwindCSS
+### 📺 Demo
 
-前端框架：
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" width="30" title="Vue"/>
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="30" title="React"/>
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Svelte.svg" width="30" title="Svelte"/>
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Astro.svg" width="30" title="Astro"/>
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" width="30" title="Flutter"/>
+- [基于 Vue3 + Websocket 实现的小智在线聊天 Web 端](https://github.com/Yang-ZhiHang/xiaozhi-webui)
 
+- [简单的绝区零个人博客页面](https://github.com/Yang-ZhiHang/z-blog)，基于 Astro 的博客模板正在制作中...
 
-熟悉 Vue3，用过 Nuxt、Vue2、Astro，了解 React、Svelte、Flutter
+### 🤖 Automated Tool
 
-后端：
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="30" title="Python"/>
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="30" title="C++"/>
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" width="30" title="Java"/>
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" width="30" title="Rust"/>
-
-熟悉 Python，用过 Rust、C/C++、Java
-
-后端框架：
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" width="30" title="Flask"/>
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" width="30" title="FastAPI"/>
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/Yang-ZhiHang/Yang-ZhiHang/main/assets/langchain.png" width="30" title="LangChain"/>
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Tauri-Dark.svg" width="30" title="Tauri"/>
-
-
-熟悉 Flask、FastAPI，用过 LangChain、Tauri
-
-数据库：
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="30" title="MySQL"/>
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="30" title="PostgreSQL"/>
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" width="30" title="Redis"/>
-
-熟悉 postgreSQL，用过 MySQL、Redis
-
-DevOps：
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="30" title="Git"/>
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" width="30" title="Nginx"/>
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="30" title="Docker"/>
-
-熟练 Git、Nginx，用过 Docker
-
-自媒体：
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" width="30" title="PS"/>
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Premiere.svg" width="30" title="Pr"/>
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AfterEffects.svg" width="30" title="AE"/>
-
-用过 Ps、Pr、AE、剪映
-
-工具推荐：
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="30" title="VSCode"/>
-<img align="middle" style="vertical-align: middle;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Obsidian-Dark.svg" width="30" title="Obsidian"/>
-
-vscode、obsidian、project graph
+- [刷问卷星脚本 - 多进程](https://github.com/Yang-ZhiHang/wjx)
