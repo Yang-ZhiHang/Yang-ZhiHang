@@ -57,3 +57,5 @@
 ### 🤖 Automated Tool
 
 - [刷问卷星脚本 - 多进程](https://github.com/Yang-ZhiHang/wjx)
+
+- [基于 STC89C52 的宿舍 NFC 门禁 - 软件驱动](https://github.com/Yang-ZhiHang/nfc-stc-pn532)
