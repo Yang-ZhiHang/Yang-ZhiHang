@@ -42,7 +42,7 @@
 
 ### 🎯 Project
 
-- [使用 Rust 实现的光追渲染器 - rpt](https://github.com/Yang-ZhiHang/rpt)
+- [基于路径追踪算法实现的渲染器 - PathTracing-Renderer](https://github.com/Yang-ZhiHang/PathTracing-Renderer)
 
 - [基于 Tauri+Vue3 打造的 Windows 应用使用统计软件 - PCMonitor](https://github.com/Yang-ZhiHang/pc-monitor) #ForTheLoveOfCode
 
