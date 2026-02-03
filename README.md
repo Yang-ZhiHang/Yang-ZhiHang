@@ -42,9 +42,9 @@
 
 ### 🎯 Project
 
-- [使用 Rust 实现的光追渲染器 - rpt](https://github.com/Yang-ZhiHang/rpt)
+- [基于路径追踪算法的渲染器 - path-tracing-renderer](https://github.com/Yang-ZhiHang/path-tracing-renderer)
 
-- [基于 Tauri+Vue3 打造的 Windows 应用使用统计软件 - PCMonitor](https://github.com/Yang-ZhiHang/pc-monitor) #ForTheLoveOfCode
+- [基于 Tauri+Vue3 打造的 Windows 应用使用统计软件 - PCMonitor](https://github.com/Yang-ZhiHang/pc-monitor) `#ForTheLoveOfCode`
 
 - [基于 BS 架构，为视障人士打造的无障碍智能助手 - VisionVoice](https://github.com/PineappleSnowy/VisionVoice)
 
