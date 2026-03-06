@@ -42,17 +42,17 @@
 
 ### 🎯 Project
 
-- [使用 Rust 实现的光追渲染器 - rpt](https://github.com/Yang-ZhiHang/rpt)
+- [路径追踪渲染器 - RustPathTracer](https://github.com/Yang-ZhiHang/rs-path-tracer)
 
-- [基于 Tauri+Vue3 打造的 Windows 应用使用统计软件 - PCMonitor](https://github.com/Yang-ZhiHang/pc-monitor) #ForTheLoveOfCode
+- [基于 Tauri+Vue3 打造的 Windows 应用使用统计软件 - PCMonitor](https://github.com/Yang-ZhiHang/pc-monitor) `#ForTheLoveOfCode`
 
 - [基于 BS 架构，为视障人士打造的无障碍智能助手 - VisionVoice](https://github.com/PineappleSnowy/VisionVoice)
 
+- [基于 Vue3+AudioAPI 实现的小智 AI 在线聊天 Web 客户端](https://github.com/Yang-ZhiHang/xiaozhi-webui)
+
 ### 📺 Demo
 
-- [基于 Vue3+AudioAPI 实现的小智在线聊天 Web 客户端](https://github.com/Yang-ZhiHang/xiaozhi-webui)
-
-- [绝区零个人博客](https://github.com/Yang-ZhiHang/z-blog)，基于 Astro+Svelte 的博客模板正在制作中...
+- [绝区零主题个人博客](https://github.com/Yang-ZhiHang/z-blog)
 
 ### 🤖 Automated Tool
 
