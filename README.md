@@ -44,11 +44,11 @@
 
 - [路径追踪渲染器 - RustPathTracer](https://github.com/Yang-ZhiHang/rs-path-tracer)
 
-- [基于 Tauri+Vue3 打造的 Windows 应用使用统计软件 - PCMonitor](https://github.com/Yang-ZhiHang/pc-monitor) `#ForTheLoveOfCode`
+- [基于 Vue3+AudioAPI 实现的小智 AI 在线聊天 Web 客户端](https://github.com/Yang-ZhiHang/xiaozhi-webui)
 
 - [基于 BS 架构，为视障人士打造的无障碍智能助手 - VisionVoice](https://github.com/PineappleSnowy/VisionVoice)
 
-- [基于 Vue3+AudioAPI 实现的小智 AI 在线聊天 Web 客户端](https://github.com/Yang-ZhiHang/xiaozhi-webui)
+- [基于 Tauri+Vue3 打造的 Windows 应用使用统计软件 - PCMonitor](https://github.com/Yang-ZhiHang/pc-monitor) `#ForTheLoveOfCode`
 
 ### 📺 Demo
 
