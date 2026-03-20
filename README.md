@@ -42,6 +42,8 @@
 
 ### 🎯 Project
 
+- [单遍解释器 - LoxInterpreter](https://github.com/Yang-ZhiHang/rs-lox)
+
 - [路径追踪渲染器 - RustPathTracer](https://github.com/Yang-ZhiHang/rs-path-tracer)
 
 - [基于 FSM 架构的小智 AI 对话系统](https://github.com/Yang-ZhiHang/xiaozhi-webui)
