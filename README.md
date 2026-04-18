@@ -2,9 +2,9 @@
 <!-- Typing SVG from: https://github.com/DenverCoder1/readme-typing-svg -->
 
 <p align=center>
-  <img src="https://github-readme-stats-v2-zamyangs-projects.vercel.app/api/top-langs/?username=Yang-ZhiHang&layout=compact&theme=tokyonight&bg_color=00000000" alt="Top Langs" />
+  <img src="https://github-readme-stats-v3-iota.vercel.app/api/top-langs/?username=Yang-ZhiHang&hide=Jupyter+Notebook&layout=compact&theme=tokyonight&bg_color=00000000" alt="Top Langs" />
   <br><br>
-  <img src="https://github-readme-stats-v2-zamyangs-projects.vercel.app/api?username=Yang-ZhiHang&show_icons=true&theme=tokyonight&bg_color=00000000" alt="Github Stats" />
+  <img src="https://github-readme-stats-v3-iota.vercel.app/api?username=Yang-ZhiHang&show_icons=true&theme=tokyonight&bg_color=00000000" alt="Github Stats" />
   <!-- Langs Card from: https://github.com/anuraghazra/github-readme-stats -->
 </p>
 
