@@ -28,6 +28,8 @@
 
 ### 🤖 Automated Tool
 
+- 体育馆预约系统羽毛球抢场脚本
+
 - [刷问卷星脚本 - 多进程](https://github.com/Yang-ZhiHang/wjx)
 
 - [基于 STC89C52 的宿舍 NFC 门禁软件驱动](https://github.com/Yang-ZhiHang/nfc-stc-pn532)
